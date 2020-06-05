@@ -1,4 +1,4 @@
-function largestSum(array){
+function largestSubarraySum(array){
     let max_so_far = 0
   let max_to_here = 0
   for (let element of array){
